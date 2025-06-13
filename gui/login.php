@@ -19,6 +19,6 @@
                 <input type="password" id="password" name="password" required>
             </div>
             <div class="form-group">
-                <button type="submit">Login</button>
+                <button type="submit">Logins</button>
 
 </html>
